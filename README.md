@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Jack, nice to meet you! 😁
 
-<!--
-**jwkinney443/jwkinney443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with a CS degree from Boston University '25. I love building things from scratch and I'm always eager to learn something new.
 
-Here are some ideas to get you started:
+- 🔭 Currently building side projects and exploring new tools
+- 💻 Experienced with Python, TypeScript, Node.js, Next.js, React
+- 🎯 Looking for backend, full-stack, or data engineering roles in NYC
+- 📫 Reach me at [LinkedIn](https://linkedin.com/in/yourlink)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent projects
+
+- [VSCII](https://github.com/jwkinney443/VSCII) — browser-based ASCII video player built with Next.js and FFmpeg
+- [JAMMY](https://github.com/jwkinney443/JAMMY) — Wordle-style music guessing game with Spotify and Deezer integration
+- [doto](https://github.com/jwkinney443/doto) — terminal todo manager in Rust
