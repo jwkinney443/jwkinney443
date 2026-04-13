@@ -5,7 +5,7 @@ Software engineer with a CS degree from Boston University '25. I love building t
 - 🔭 Currently building side projects and exploring new tools
 - 💻 Experienced with Python, TypeScript, Node.js, Next.js, React
 - 🎯 Looking for backend, full-stack, or data engineering roles in NYC
-- 📫 Reach me at [LinkedIn](https://linkedin.com/in/jwiknney443)
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/jwkinney443/)
 
 ### Recent projects
 
